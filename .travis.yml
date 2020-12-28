@@ -127,7 +127,7 @@ jobs:
       arch: ppc64le
     - node_js: "0.12"
       arch: ppc64le
-    - node_js: "0.18"
+    - node_js: "1.8"
       arch: ppc64le
     - node_js: "2.5"
       arch: ppc64le
